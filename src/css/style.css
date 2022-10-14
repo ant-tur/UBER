@@ -1,7 +1,8 @@
 * {
 	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
 }
 
 p {
-	font-weight: 700;
+	/* font-weight: 700; */
 }
